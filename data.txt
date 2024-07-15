@@ -1,0 +1,2180 @@
+<!doctype html>
+<html lang="ru">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<link rel="shortcut icon" href="https://vesti-omsk.ru/wp-content/themes/startnews/favicon.png" />
+		<meta name="yandex-verification" content="2a9f8e80fb62d3bf" />
+		
+<!-- SEO от Rank Math - https://rankmath.com/ -->
+<title>Программа передач &quot;Россия-1&quot; (Омск) - ГТРК Иртыш</title>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel="canonical" href="https://vesti-omsk.ru/teleprogramma/" />
+<meta property="og:locale" content="ru_RU" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Программа передач &quot;Россия-1&quot; (Омск) - ГТРК Иртыш" />
+<meta property="og:url" content="https://vesti-omsk.ru/teleprogramma/" />
+<meta property="og:site_name" content="ГТРК Иртыш" />
+<meta property="og:updated_time" content="2022-10-09T21:23:34+06:00" />
+<meta property="article:published_time" content="2020-06-13T00:36:32+06:00" />
+<meta property="article:modified_time" content="2022-10-09T21:23:34+06:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Программа передач &quot;Россия-1&quot; (Омск) - ГТРК Иртыш" />
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://vesti-omsk.ru/#organization","name":"\u0413\u0422\u0420\u041a \"\u0418\u0440\u0442\u044b\u0448\""},{"@type":"WebSite","@id":"https://vesti-omsk.ru/#website","url":"https://vesti-omsk.ru","name":"\u0413\u0422\u0420\u041a \u0418\u0440\u0442\u044b\u0448","publisher":{"@id":"https://vesti-omsk.ru/#organization"},"inLanguage":"ru-RU"},{"@type":"WebPage","@id":"https://vesti-omsk.ru/teleprogramma/#webpage","url":"https://vesti-omsk.ru/teleprogramma/","name":"\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u043f\u0435\u0440\u0435\u0434\u0430\u0447 &quot;\u0420\u043e\u0441\u0441\u0438\u044f-1&quot; (\u041e\u043c\u0441\u043a) - \u0413\u0422\u0420\u041a \u0418\u0440\u0442\u044b\u0448","datePublished":"2020-06-13T00:36:32+06:00","dateModified":"2022-10-09T21:23:34+06:00","isPartOf":{"@id":"https://vesti-omsk.ru/#website"},"inLanguage":"ru-RU"},{"@type":"Person","@id":"https://vesti-omsk.ru/author/dan/","name":"\u0410\u043d\u0430\u0442\u043e\u043b\u0438\u0439 \u0424\u0440\u0443\u043c\u0433\u0430\u0440\u0446","url":"https://vesti-omsk.ru/author/dan/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/a12b5a460451a553064df0e986637059?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/a12b5a460451a553064df0e986637059?s=96&amp;d=mm&amp;r=g","caption":"\u0410\u043d\u0430\u0442\u043e\u043b\u0438\u0439 \u0424\u0440\u0443\u043c\u0433\u0430\u0440\u0446","inLanguage":"ru-RU"},"worksFor":{"@id":"https://vesti-omsk.ru/#organization"}},{"@type":"Article","headline":"\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u043f\u0435\u0440\u0435\u0434\u0430\u0447 \"\u0420\u043e\u0441\u0441\u0438\u044f-1\" (\u041e\u043c\u0441\u043a)","keywords":"\u0442\u0435\u043b\u0435\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u0440\u043e\u0441\u0441\u0438\u044f 1 \u0441\u0435\u0433\u043e\u0434\u043d\u044f","datePublished":"2020-06-13T00:36:32+06:00","dateModified":"2022-10-09T21:23:34+06:00","author":{"@id":"https://vesti-omsk.ru/author/dan/","name":"\u0410\u043d\u0430\u0442\u043e\u043b\u0438\u0439 \u0424\u0440\u0443\u043c\u0433\u0430\u0440\u0446"},"publisher":{"@id":"https://vesti-omsk.ru/#organization"},"name":"\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u043f\u0435\u0440\u0435\u0434\u0430\u0447 \"\u0420\u043e\u0441\u0441\u0438\u044f-1\" (\u041e\u043c\u0441\u043a)","@id":"https://vesti-omsk.ru/teleprogramma/#richSnippet","isPartOf":{"@id":"https://vesti-omsk.ru/teleprogramma/#webpage"},"inLanguage":"ru-RU","mainEntityOfPage":{"@id":"https://vesti-omsk.ru/teleprogramma/#webpage"}}]}</script>
+<!-- /Rank Math WordPress SEO плагин -->
+
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel="alternate" type="application/rss+xml" title="ГТРК Иртыш &raquo; Лента" href="https://vesti-omsk.ru/feed/" />
+<link rel="alternate" type="application/rss+xml" title="ГТРК Иртыш &raquo; Лента комментариев" href="https://vesti-omsk.ru/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/vesti-omsk.ru\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.5"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://vesti-omsk.ru/wp-includes/css/dist/block-library/style.min.css?ver=6.5.5' type='text/css' media='all' />
+<style id='rank-math-toc-block-style-inline-css' type='text/css'>
+.wp-block-rank-math-toc-block nav ol{counter-reset:item}.wp-block-rank-math-toc-block nav ol li{display:block}.wp-block-rank-math-toc-block nav ol li:before{content:counters(item, ".") ". ";counter-increment:item}
+
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='avatar-manager-css' href='https://vesti-omsk.ru/wp-content/plugins/avatar-manager/assets/css/avatar-manager.min.css?ver=1.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='https://vesti-omsk.ru/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='searchandfilter-css' href='https://vesti-omsk.ru/wp-content/plugins/search-filter/style.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css-css' href='https://vesti-omsk.ru/wp-content/plugins/wordpress-popular-posts/assets/css/wpp.css?ver=6.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='project-css' href='https://vesti-omsk.ru/wp-content/themes/startnews/assets/sass/css/site.css?ver=1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='setting-css' href='https://vesti-omsk.ru/wp-content/themes/startnews/assets/css/setting.css?ver=1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='index-css' href='https://vesti-omsk.ru/wp-content/themes/startnews/assets/css/index.css?ver=1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='footer-css' href='https://vesti-omsk.ru/wp-content/themes/startnews/assets/css/footer.css?ver=1.6' type='text/css' media='all' />
+<script type="text/javascript" src="https://vesti-omsk.ru/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://vesti-omsk.ru/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://vesti-omsk.ru/wp-content/plugins/avatar-manager/assets/js/avatar-manager.min.js?ver=1.2.1" id="avatar-manager-js"></script>
+<script type="application/json" id="wpp-json">
+
+{"sampling_active":0,"sampling_rate":100,"ajax_url":"https:\/\/vesti-omsk.ru\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","api_url":"https:\/\/vesti-omsk.ru\/wp-json\/wordpress-popular-posts","ID":47171,"token":"f2513628a7","lang":0,"debug":0}
+
+</script>
+<script type="text/javascript" src="https://vesti-omsk.ru/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=6.4.2" id="wpp-js-js"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://vesti-omsk.ru/xmlrpc.php?rsd" />
+
+<link rel='shortlink' href='https://vesti-omsk.ru/?p=47171' />
+<link rel="alternate" type="application/json+oembed" href="https://vesti-omsk.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fvesti-omsk.ru%2Fteleprogramma%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://vesti-omsk.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fvesti-omsk.ru%2Fteleprogramma%2F&#038;format=xml" />
+            <style id="wpp-loading-animation-styles">@-webkit-keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}@keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}.wpp-widget-placeholder,.wpp-widget-block-placeholder,.wpp-shortcode-placeholder{margin:0 auto;width:60px;height:3px;background:#dd3737;background:linear-gradient(90deg,#dd3737 0%,#571313 10%,#dd3737 100%);background-size:200% auto;border-radius:3px;-webkit-animation:bgslide 1s infinite linear;animation:bgslide 1s infinite linear}</style>
+            		<style type="text/css" id="wp-custom-css">
+			.is-type-video .wp-block-embed__wrapper {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+  margin-top: 1.5rem;
+}
+.is-type-video .wp-block-embed__wrapper iframe,
+.is-type-video .wp-block-embed__wrapper object,
+.is-type-video .wp-block-embed__wrapper embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  max-width: 100%;
+  height: 100%;
+}
+
+.perfecty-push-dialog-box, .perfecty-push-settings-container #perfecty-push-settings-form {
+	background: #201b6e;
+}
+.perfecty-push-settings-container #perfecty-push-settings-open svg {
+	background-color: #ee1a23;
+}
+.perfecty-push-dialog-container .perfecty-push-dialog-form #perfecty-push-dialog-subscribe {
+    background-color: #ee1a23;
+    color: #ffffff;
+}
+.perfecty-push-dialog-container .perfecty-push-dialog-form #perfecty-push-dialog-cancel {
+    background-color: #ffffff;
+    color: #ee1a23;
+}
+figure.wp-block-gallery.has-nested-images {
+    display: flex;
+}
+.wp-element-button {
+    background: red;
+}
+.leftpad {
+	padding-left: 16px;
+}
+.uk-text-normal {
+	  line-height: 1;
+}
+.uk-section {
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+.sidebar-img-1400 {
+	width: 1400px;
+}
+.sidebar-width-full {
+	width: 1400px;
+}
+.grecaptcha-badge {
+	visibility: hidden;
+}
+.searchandfilter ul {
+    padding-left: 0;
+}
+.widget-margin-top {
+	margin-top: 1rem;
+}
+.widget-margin-bottom {
+	margin-bottom: 1rem;
+}
+.sidebar-right-widget:not(:last-child) {
+	margin-bottom: 1rem;
+}
+.sidebar-widget:not(:last-child) {
+	margin-bottom: 1rem;
+}
+.sidebar-widget img {
+    min-width: 100%;
+}
+.sidebar-right-title {
+	text-align: center;
+}
+.sidebar-right-widget img {
+    min-width: 100%;
+}
+.post-image img {
+    min-width: 100%;
+}
+.content p a {
+	font-weight: bold;
+	color: #b0c9f7;
+}
+.content iframe {
+    width: 100%;
+}
+.category-image-m {
+	height: calc(100% * 1 / 3.001);
+}
+.category-description {
+	font-size: 1.6rem;
+	margin-bottom: 40px;
+}
+.category-description a {
+	font-weight: bold;
+}
+.uk-button-cat {
+	background-color: #154b9c;
+	text-align: center;
+	width: 100%;
+	border-radius: 4px;
+}
+.term {
+	align-self: center;
+}
+/* =WordPress Core
+-------------------------------------------------------------- */
+.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter, div.aligncenter {
+    display:block;
+    margin: 5px auto 5px auto;
+}
+
+.alignright {
+    float:right;
+    margin: 5px 0 20px 20px;
+}
+
+.alignleft {
+    float:left;
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+a img.alignright {
+    float:right;
+    margin: 5px 0 20px 20px;
+}
+
+a img.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignleft {
+    float:left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.wp-caption {
+    background: #fff;
+    border: 1px solid #f0f0f0;
+    max-width: 96%; /* Image does not overflow the content area */
+    padding: 5px 3px 10px;
+    text-align: center;
+}
+
+.wp-caption.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignleft {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px;
+}
+
+.wp-caption img {
+    border: 0 none;
+    height: auto;
+    margin:0;
+    max-width: 98.5%;
+    padding:0;
+    width: auto;
+}
+
+.wp-caption p.wp-caption-text {
+    font-size:11px;
+    line-height:17px;
+    margin:0;
+    padding:0 4px 5px;
+}		</style>
+			</head>
+	<body>
+		<div id="page">
+
+			<!-- Подключаем иконки -->
+			<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display: none;">
+
+<symbol id="svg_vk" viewBox="0 0 511.962 511.962">
+	<path fill="currentColor" d="M507.399,370.471c-1.376-2.304-9.888-20.8-50.848-58.816c-42.88-39.808-37.12-33.344,14.528-102.176    c31.456-41.92,44.032-67.52,40.096-78.464c-3.744-10.432-26.88-7.68-26.88-7.68l-76.928,0.448c0,0-5.696-0.768-9.952,1.76    c-4.128,2.496-6.784,8.256-6.784,8.256s-12.192,32.448-28.448,60.032c-34.272,58.208-48,61.28-53.6,57.664    c-13.024-8.416-9.76-33.856-9.76-51.904c0-56.416,8.544-79.936-16.672-86.016c-8.384-2.016-14.528-3.36-35.936-3.584    c-27.456-0.288-50.72,0.096-63.872,6.528c-8.768,4.288-15.52,13.856-11.392,14.4c5.088,0.672,16.608,3.104,22.72,11.424    c7.904,10.72,7.616,34.848,7.616,34.848s4.544,66.4-10.592,74.656c-10.4,5.664-24.64-5.888-55.2-58.72    c-15.648-27.04-27.488-56.96-27.488-56.96s-2.272-5.568-6.336-8.544c-4.928-3.616-11.84-4.768-11.84-4.768l-73.152,0.448    c0,0-10.976,0.32-15.008,5.088c-3.584,4.256-0.288,13.024-0.288,13.024s57.28,133.984,122.112,201.536    c59.488,61.92,127.008,57.856,127.008,57.856h30.592c0,0,9.248-1.024,13.952-6.112c4.352-4.672,4.192-13.44,4.192-13.44    s-0.608-41.056,18.464-47.104c18.784-5.952,42.912,39.68,68.48,57.248c19.328,13.28,34.016,10.368,34.016,10.368l68.384-0.96    C488.583,400.807,524.359,398.599,507.399,370.471z"/>
+</symbol>
+
+<symbol id="svg_ok" viewBox="0 0 24 24"><path fill="currentColor" d="m4.721 12.881c-.613 1.205.083 1.781 1.671 2.765 1.35.834 3.215 1.139 4.413 1.261-.491.472 1.759-1.692-4.721 4.541-1.374 1.317.838 3.43 2.211 2.141l3.717-3.585c1.423 1.369 2.787 2.681 3.717 3.59 1.374 1.294 3.585-.801 2.226-2.141-.102-.097-5.037-4.831-4.736-4.541 1.213-.122 3.05-.445 4.384-1.261l-.001-.001c1.588-.989 2.284-1.564 1.68-2.769-.365-.684-1.349-1.256-2.659-.267 0 0-1.769 1.355-4.622 1.355-2.854 0-4.622-1.355-4.622-1.355-1.309-.994-2.297-.417-2.658.267z"/><path fill="currentColor" d="m11.999 12.142c3.478 0 6.318-2.718 6.318-6.064 0-3.36-2.84-6.078-6.318-6.078-3.479 0-6.319 2.718-6.319 6.078 0 3.346 2.84 6.064 6.319 6.064zm0-9.063c1.709 0 3.103 1.341 3.103 2.999 0 1.644-1.394 2.985-3.103 2.985s-3.103-1.341-3.103-2.985c-.001-1.659 1.393-2.999 3.103-2.999z"/></symbol>
+
+<symbol id="svg_zen" viewBox="0 0 26 30">
+	<path fill="currentColor" d="M15.916 12.334c1.96 1.959 4.887 2.33 10.07 2.4-.14-6.883-5.622-12.44-12.472-12.708.062 5.331.414 8.319 2.402 10.308zM10.334 12.334c1.99-1.99 2.34-4.981 2.403-10.32C5.768 2.153.153 7.767.013 14.736c5.34-.062 8.33-.413 10.32-2.403zM15.916 17.916c-1.957 1.958-2.329 4.883-2.4 10.058 6.766-.267 12.191-5.692 12.458-12.457-5.175.07-8.1.442-10.058 2.4zM10.334 17.916c-1.99-1.988-4.977-2.34-10.308-2.402.268 6.85 5.825 12.333 12.707 12.473-.07-5.184-.44-8.111-2.4-10.07z"></path>
+</symbol>
+
+<symbol id="svg_telegram" viewBox="0 0 48 48">
+	<path fill="currentColor" d="M48 24C48 37.2548 37.2548 48 24 48C10.7452 48 0 37.2548 0 24C0 10.7452 10.7452 0 24 0C37.2548 0 48 10.7452 48 24ZM16.0715 21.8015C13.6673 22.8512 11.1971 23.9298 8.93825 25.174C7.75877 26.0376 9.32638 26.6485 10.7971 27.2215C11.0309 27.3126 11.2622 27.4027 11.4797 27.4927C11.6607 27.5484 11.8447 27.607 12.0312 27.6664C13.6669 28.1875 15.4907 28.7686 17.0787 27.8945C19.6873 26.396 22.149 24.6636 24.6089 22.9325C25.4148 22.3653 26.2205 21.7983 27.0311 21.2397C27.0691 21.2154 27.1119 21.1876 27.1588 21.1573C27.8493 20.7096 29.4024 19.7029 28.8279 21.0901C27.4695 22.5757 26.0144 23.8907 24.5515 25.213C23.5655 26.1041 22.5759 26.9985 21.6099 27.9505C20.7686 28.6341 19.8949 30.0088 20.837 30.9661C23.0069 32.4851 25.2107 33.9673 27.4132 35.4487C28.1299 35.9307 28.8466 36.4127 29.5618 36.8959C30.774 37.8637 32.6685 37.0808 32.935 35.5685C33.0535 34.8728 33.1725 34.1772 33.2915 33.4815C33.9491 29.6368 34.6069 25.7907 35.188 21.9335C35.267 21.3284 35.3565 20.7234 35.4461 20.1181C35.6632 18.651 35.8806 17.1821 35.9485 15.7071C35.7735 14.2351 33.9887 14.5588 32.9955 14.8898C27.8903 16.8324 22.8361 18.919 17.8019 21.0424C17.2316 21.295 16.6535 21.5474 16.0715 21.8015Z"/>
+</symbol>
+
+<symbol id="svg_rutube" viewBox="0 0 87.9197 21.0458">
+	<path fill="currentColor" d="M39.6303 5.3086V.3416l-4.6725.6056v4.3611h-1.8185v4.1103h1.8185v11.2012h4.6725V9.4186h3.3878v-4.11zM14.0933 12.6807c1.4235-1.148 2.3368-2.7191 2.3368-4.691v-.8579c0-3.4626-2.8067-6.0068-6.2677-6.0068L.2646 1.0864.2704 20.517l4.6752.0368v-6.595H9.751l3.1324 6.595h5.4715zM11.653 7.7539c0 1.3793-1.1184 2.1616-2.4971 2.1616H4.9456V5.2491h4.2103c1.3787 0 2.4971.9686 2.4971 2.3479zM66.6133 5.2274h-2.4722V.2646L59.5699.87l-.0008 19.6839h7.0442c3.4621 0 6.268-2.658 6.268-6.119v-2.939c0-3.462-2.8059-6.2685-6.268-6.2685zm1.7889 8.8138c0 1.4578-.984 2.3228-2.4416 2.3228H64.156V9.4205h1.8047c1.4576 0 2.4416.8657 2.4416 2.3233zM53.0106 5.3086v8.8424c0 1.4576-.5302 2.442-1.9878 2.442h-.0725c-1.4568 0-1.9881-.9847-1.9881-2.442V5.3086h-4.612v9.1797c0 3.462 1.515 6.269 6.1196 6.269h.8845c4.8495 0 6.2693-2.807 6.2693-6.269V5.3086zM27.015 5.3086v8.8424c0 1.4576-.5305 2.442-1.988 2.442h-.0723c-1.4568 0-1.9878-.9847-1.9878-2.442V5.3086h-4.6122v9.1797c0 3.462 1.5144 6.269 6.1187 6.269h.8853c4.8482 0 6.2688-2.807 6.2688-6.269V5.3086zM84.5812 15.4204s-1.3496 1.654-3.7216 1.4685c-1.4783-.1156-2.3543-.8663-2.3543-2.3236v-.508h9.048v-2.6239c0-3.3766-2.4742-6.338-6.6818-6.338-4.2069 0-6.6868 2.8127-6.6868 6.1896v3.1565c0 3.378 2.4749 6.3397 6.6818 6.3397 4.7558 0 6.7886-3.3168 6.7886-3.3168zm-6.0762-4.8508c0-1.4232.9073-2.2802 2.2575-2.3196h.1161c1.4058 0 2.3543.8657 2.3543 2.3228v.1283h-4.7281v-.1315z"/>
+</symbol>
+
+</svg>
+			<header role="banner">
+				<div id="header">
+					<div class="uk-container">
+
+												<div class="uk-visible@m">
+							<div class="textwidget custom-html-widget"><div class="uk-flex" style="position:relative;">
+<video loop muted autoplay playsinline style="width:1400px;">
+<source src="/media/general/logo.webm?1" type="video/webm">
+</video>
+<a style="position:absolute;top:0;left:0;height:100%;width:400px;z-index:2" href="/"></a>
+<a style="position:absolute;top:0;right:1%;height:100%;width:20%;z-index:2" href="/programs/russia-1/pervye_na_tv/"></a>
+<div class="social-list" style="position: absolute;right: 0px;bottom: 0px;padding: 5px;z-index:3">
+<a class="header-link" target="_blank" href="https://vk.com/vestiomsk" rel="noopener"><svg width="20" height="20"><use xlink:href="#svg_vk"/></svg></a>
+<a class="header-link" target="_blank" href="https://t.me/vestiomsk" rel="noopener"><svg width="20" height="20"><use xlink:href="#svg_telegram"/></svg></a>
+<a class="header-link" target="_blank" href="https://ok.ru/group/58667583668472" rel="noopener"><svg width="20" height="20"><use xlink:href="#svg_ok"/></svg></a>
+<a class="header-link" target="_blank" href="https://zen.yandex.ru/id/5a65c87ac8901093356e9173" rel="noopener"><svg width="20" height="20"><use xlink:href="#svg_zen"/></svg></a>
+</div>
+</div></div>						</div>
+						
+						<nav class="uk-navbar-container uk-navbar-transparent" uk-navbar>
+							<div class="uk-navbar-left uk-width-expand uk-flex-between">
+
+								<div class="uk-navbar-item uk-hidden@m">
+									<a href="#offcanvas-usage" uk-toggle><span uk-icon="icon:menu"></span></a>
+									<a class="uk-logo" href="/" style="padding-left:2rem;width:90px;"><img src="https://vesti-omsk.ru/wp-content/themes/startnews/img/logo.png"/></a>
+								</div>
+
+								<div id="offcanvas-usage" uk-offcanvas>
+									<div class="uk-offcanvas-bar">
+
+										<button class="uk-offcanvas-close" type="button" uk-close></button>
+
+										<div class="uk-flex uk-flex-column">
+											<div class="topbar_li">
+												<a class="header-link" href="/programs/">Телепроекты</a>
+											</div>
+											<div class="topbar_li">
+												<a class="header-link" href="/radio/">Радиопрограммы</a>
+											</div>
+										</div>
+										<div class="uk-navbar-item menu-it">
+											<a href="/news">Новости</a>
+											<div uk-dropdown="mode: click; " class="menu-drop">
+												<div class="menu-sidebar-menu-container"><ul id="menu-sidebar-menu" class="menu"><li id="menu-item-1203" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1203"><a href="https://vesti-omsk.ru/news/housing/">ЖКХ</a></li>
+<li id="menu-item-1205" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1205"><a href="https://vesti-omsk.ru/news/medicine/">Медицина</a></li>
+<li id="menu-item-15173" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15173"><a href="https://vesti-omsk.ru/news/dorogi/">Дороги</a></li>
+<li id="menu-item-1206" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1206"><a href="https://vesti-omsk.ru/news/education/">Образование</a></li>
+<li id="menu-item-1207" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1207"><a href="https://vesti-omsk.ru/news/society/">Общество</a></li>
+<li id="menu-item-1208" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1208"><a href="https://vesti-omsk.ru/news/politika/">Политика</a></li>
+<li id="menu-item-1209" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1209"><a href="https://vesti-omsk.ru/news/incident/">Происшествия</a></li>
+<li id="menu-item-1210" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1210"><a href="https://vesti-omsk.ru/news/farming/">Сельское хозяйство</a></li>
+<li id="menu-item-1211" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1211"><a href="https://vesti-omsk.ru/news/sport/">Спорт</a></li>
+<li id="menu-item-1212" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1212"><a href="https://vesti-omsk.ru/news/business/">Экономика и бизнес</a></li>
+<li id="menu-item-11605" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11605"><a href="https://vesti-omsk.ru/news/partner-news/">На правах рекламы</a></li>
+<li id="menu-item-1451" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1451"><a href="https://vesti-omsk.ru/news/culture/">Культура</a></li>
+<li id="menu-item-11733" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11733"><a href="https://vesti-omsk.ru/news/gosudarstvo/">Государство</a></li>
+<li id="menu-item-33067" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33067"><a href="https://vesti-omsk.ru/news/jekologija/">Экология</a></li>
+</ul></div>											</div>
+										</div>
+										<div class="uk-navbar-item menu-it say-news">
+											<a href="/feedback/">Сообщить новость</a>
+										</div>
+										<div class="uk-navbar-item menu-it">
+											<a href="/teleprogramma/">Телепрограмма</a>
+										</div>
+										<div class="uk-navbar-item menu-it">
+											<a href="/radioprogramma/">Радиопрограмма</a>
+										</div>
+										<div class="uk-navbar-item menu-it">
+											<a href="/reklama/">Рекламодателям</a>
+										</div>
+										<div class="uk-navbar-item menu-it">
+											<a class="uk-flex uk-flex-middle" href="/persons/"><span>Репортёры</span></a>
+										</div>
+										<div class="uk-navbar-item menu-it">
+											<a class="uk-flex uk-flex-middle" href="/vakansii/"><span>Вакансии</span></a>
+										</div>
+										<div class="uk-navbar-item menu-it">
+											<a href="/rozygryshi-i-konkursy/">Розыгрыши и конкурсы</a>
+										</div>
+										<div class="uk-navbar-item menu-it">
+											<a href="/contacts/">Контакты</a>
+										</div>
+
+
+										<div class="social-list">
+											<a class="header-link" target="_blank" href="https://www.youtube.com/channel/UCY1iPYg1z-df84azsYDtJXA"><span uk-icon="youtube"></span></a>
+											<a class="header-link" target="_blank" href="https://vk.com/gtrk_irtysh"><svg width="20" height="20"><use xlink:href="#svg_vk"/></svg></a>
+											<a class="header-link" target="_blank" href="https://ok.ru/group/58667583668472"><svg width="20" height="20"><use xlink:href="#svg_ok"/></svg></a>
+											<a class="header-link" target="_blank" href="https://zen.yandex.ru/id/5a65c87ac8901093356e9173"><svg width="20" height="20"><use xlink:href="#svg_zen"/></svg></a>
+										</div>
+
+
+									</div>
+								</div>
+
+								<div class="uk-navbar-item menu-it uk-visible@m">
+									<a class="itm" href="/o-nas/">О нас</a>
+									<div uk-dropdown="mode: hover; offset: -6" class="menu-drop">
+										<div class="menu-sidebar-menu-container">
+											<ul id="menu-sidebar-menu-1" class="menu">
+												<li class="menu-item">
+													<a href="/o-nas/">История телекомпании</a>
+												</li>
+												<li class="menu-item">
+													<a href="/rukovodstvo-gtrk-irtysh/">Руководство</a>
+												</li>
+												<li class="menu-item">
+													<a href="/persons/">Репортёры</a>
+												</li>
+												<li class="menu-item">
+													<a href="/vakansii/">Вакансии</a>
+												</li>
+												<li class="menu-item">
+													<a href="/contacts/">Контакты</a>
+												</li>
+												<li class="menu-item">
+													<a href="/rozygryshi-i-konkursy/">Розыгрыши и конкурсы</a>
+												</li>
+											</ul>
+										</div>
+									</div>
+								</div>
+								<div class="uk-navbar-item menu-it uk-visible@m">
+									<a class="itm" href="#">Телепроекты</a>
+									<div uk-dropdown="mode: hover; offset: 6" class="menu-drop">
+										<div class="menu-sidebar-menu-container">
+											<ul id="menu-sidebar-menu-1" class="menu">
+												<li class="menu-item">
+													<a href="/programs/russia-1/">«Россия-1»</a>
+												</li>
+												<li class="menu-item">
+													<a href="/programs/russia-24/">«Россия-24»</a>
+												</li>
+											</ul>
+										</div>
+									</div>
+								</div>
+								<div class="uk-navbar-item menu-it uk-visible@m">
+									<a class="itm" href="#">Радиопрограммы</a>
+									<div uk-dropdown="mode: hover; offset: 6" class="menu-drop">
+										<div class="menu-sidebar-menu-container">
+											<ul id="menu-sidebar-menu-1" class="menu">
+												<li class="menu-item">
+													<a href="/radio/radio-russia/">«Радио России»</a>
+												</li>
+												<li class="menu-item">
+													<a href="/radio/radio-majak/">Радио «Маяк»</a>
+												</li>
+												<li class="menu-item">
+													<a href="/radio/vesti-fm/">«Вести FМ»</a>
+												</li>
+											</ul>
+										</div>
+									</div>
+								</div>
+								<div class="uk-navbar-item menu-it uk-visible@m">
+									<a class="itm" href="/news">Новости</a>
+									<div uk-dropdown="mode: hover; offset: 6" class="menu-drop">
+										<div class="menu-sidebar-menu-container"><ul id="menu-sidebar-menu-1" class="menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1203"><a href="https://vesti-omsk.ru/news/housing/">ЖКХ</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1205"><a href="https://vesti-omsk.ru/news/medicine/">Медицина</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15173"><a href="https://vesti-omsk.ru/news/dorogi/">Дороги</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1206"><a href="https://vesti-omsk.ru/news/education/">Образование</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1207"><a href="https://vesti-omsk.ru/news/society/">Общество</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1208"><a href="https://vesti-omsk.ru/news/politika/">Политика</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1209"><a href="https://vesti-omsk.ru/news/incident/">Происшествия</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1210"><a href="https://vesti-omsk.ru/news/farming/">Сельское хозяйство</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1211"><a href="https://vesti-omsk.ru/news/sport/">Спорт</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1212"><a href="https://vesti-omsk.ru/news/business/">Экономика и бизнес</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11605"><a href="https://vesti-omsk.ru/news/partner-news/">На правах рекламы</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1451"><a href="https://vesti-omsk.ru/news/culture/">Культура</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11733"><a href="https://vesti-omsk.ru/news/gosudarstvo/">Государство</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33067"><a href="https://vesti-omsk.ru/news/jekologija/">Экология</a></li>
+</ul></div>									</div>
+								</div>
+								<div class="uk-navbar-item menu-it say-news uk-visible@m">
+									<a href="/feedback/">Сообщить новость</a>
+								</div>
+								<div class="uk-navbar-item menu-it uk-visible@m">
+									<a class="itm" href="#">Программа передач</a>
+									<div uk-dropdown="mode: hover; offset: 6" class="menu-drop">
+										<div class="menu-sidebar-menu-container">
+											<ul id="menu-sidebar-menu-1" class="menu">
+												<li class="menu-item">
+													<a href="/teleprogramma/">Программа передач «Россия-1» (Омск)</a>
+												</li>
+												<li class="menu-item">
+													<a href="/teleprogramma-sibir24/">Программа передач «Сибирь-24» (Омск)</a>
+												</li>
+												<li class="menu-item">
+													<a href="/radioprogramma/">Программа передач Омского радио</a>
+												</li>
+											</ul>
+										</div>
+									</div>
+								</div>
+								<div class="uk-navbar-item menu-it uk-visible@m">
+									<a href="/reklama/">Рекламодателям</a>
+								</div>
+								<div class="uk-navbar-item menu-it uk-visible@m">
+									<a href="/vakansii/">Вакансии</a>
+								</div>
+								<div class="uk-navbar-item menu-it uk-visible@m">
+									<a class="uk-flex uk-flex-middle" href="/archive/"><span uk-icon="calendar"></span></a>
+								</div>
+
+							</div>
+
+							<div class="uk-navbar-right">
+
+								<div style="margin-left:16px;">
+									<a class="uk-navbar-toggle search-iconic" href="#" uk-search-icon></a>
+									<div class="uk-navbar-dropdown searching" uk-drop="mode: click; cls-drop: uk-navbar-dropdown; boundary: !nav">
+
+										<div class="uk-grid-small uk-flex-middle" uk-grid>
+											<div class="uk-width-expand">
+												<form class="uk-search uk-search-navbar uk-width-1-1" method="get" action="https://vesti-omsk.ru/">
+													<input value="" name="s" id="s" class="uk-search-input" type="search" placeholder="Найти..." autofocus>
+												</form>
+											</div>
+											<div class="uk-width-auto">
+												<a class="uk-navbar-dropdown-close" href="#" uk-close></a>
+											</div>
+										</div>
+
+									</div>
+								</div>
+
+							</div>
+						</nav>
+
+					</div>
+				</div>
+			</header>
+			<!-- Google Analytics -->
+<script>
+	if(navigator.userAgent.indexOf("Speed Insights") == -1) {
+
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-92804367-1', 'auto');
+	  ga('send', 'pageview');
+
+	}
+</script>
+	<!-- Google Analytics End -->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(43393649, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/43393649" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- tns-counter.ru -->
+<script type="text/javascript">
+	(function(win, doc, cb){
+		(win[cb] = win[cb] || []).push(function() {
+			try {
+				tnsCounterVgtrk_ru = new TNS.TnsCounter({
+				'account':'vgtrk_ru',
+				'tmsec': 'gtrk_omsk'
+				});
+			} catch(e){}
+		});
+
+		var tnsscript = doc.createElement('script');
+		tnsscript.type = 'text/javascript';
+		tnsscript.async = true;
+		tnsscript.src = ('https:' == doc.location.protocol ? 'https:' : 'http:') + 
+			'//www.tns-counter.ru/tcounter.js';
+		var s = doc.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(tnsscript, s);
+	})(window, this.document,'tnscounter_callback');
+</script>
+<noscript>
+	<img src="//www.tns-counter.ru/V13a****vgtrk_ru/ru/UTF-8/tmsec=gtrk_omsk/" width="0" height="0" alt="" />
+</noscript>
+<!--/ tns-counter.ru -->
+<div style="background: #212842;">
+<!--LiveInternet counter--><script>
+new Image().src = "https://counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+
+";"+Math.random();</script><!--/LiveInternet-->
+</div><main class="post-single" role="main">
+	<div class="container">
+		<div class="uk-container">
+			<div class="uk-section">
+
+				<div uk-grid>
+
+					<article class="uk-width-1-1 uk-width-expand@m itemscope itemtype="https://schema.org/NewsArticle">
+
+						<div class="content dark-bg">
+
+
+				
+						<h1>Программа передач &#171;Россия-1&#187; (Омск)</h1>
+
+
+<div class="content-main">
+<div class="description" itemprop="text">
+			
+		<ul class="uk-subnav uk-subnav-pill" uk-switcher>
+		    <li><a href="#">Понедельник</a></li>
+		    <li><a href="#">Вторник</a></li>
+		    <li><a href="#">Среда</a></li>
+		    <li><a href="#">Четверг</a></li>
+		    <li><a href="#">Пятница</a></li>
+		    <li><a href="#">Суббота</a></li>
+		    <li><a href="#">Воскресенье</a></li>
+		</ul>
+
+
+
+
+	
+		
+			<ul class="uk-switcher uk-margin-top">
+
+				
+					<li>
+
+						<strong>08-07-2024</strong>
+
+						<div class="uk-overflow-auto">
+
+							<table class="uk-table uk-table-divider uk-table-small">
+
+								<thead>
+
+									<tr>
+										
+										<th>Время</th>
+										<th>Название программы</th>
+
+									</tr>
+
+								</thead>
+
+								<tbody>
+							
+									
+									
+										<tr>
+											
+												<td>05:00</td>
+												<td>Утро России</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>09:00</td>
+												<td>Вести. Местное время</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>09:30</td>
+												<td>Утро России</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>09:55</td>
+												<td>О самом главном</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>11:00</td>
+												<td>Вести</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>11:30</td>
+												<td>60 минут</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>13:00</td>
+												<td>Художник. Серия 1</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>14:00</td>
+												<td>Вести</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>14:35</td>
+												<td>Вести. Местное время</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>15:00</td>
+												<td>Бахар. По имени Весна. Серия 1, 2</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>17:00</td>
+												<td>Вести</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>17:30</td>
+												<td>Малахов. Жанна Фриске. Помним! Любим!</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>18:30</td>
+												<td>60 минут</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>20:00</td>
+												<td>Вести в 20:00</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>21:05</td>
+												<td>Вести. Местное время</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>21:20</td>
+												<td>Лимитчицы. Серия 9</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>22:20</td>
+												<td>Лимитчицы. Серия 10</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>23:30</td>
+												<td>Вечер с Владимиром Соловьевым</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>02:05</td>
+												<td>Бахар. По имени Весна. Серия 1, 2</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>03:45</td>
+												<td>Василиса. Серия 1</td>
+
+										</tr>
+
+									
+								</tbody>
+
+							</table>
+
+						</div>
+
+					</li>
+
+				
+					<li>
+
+						<strong>09-07-2024</strong>
+
+						<div class="uk-overflow-auto">
+
+							<table class="uk-table uk-table-divider uk-table-small">
+
+								<thead>
+
+									<tr>
+										
+										<th>Время</th>
+										<th>Название программы</th>
+
+									</tr>
+
+								</thead>
+
+								<tbody>
+							
+									
+									
+										<tr>
+											
+												<td>05:00</td>
+												<td>Утро России</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>09:00</td>
+												<td>Вести. Местное время</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>09:30</td>
+												<td>Утро России</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>09:55</td>
+												<td>О самом главном</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>11:00</td>
+												<td>Вести</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>11:30</td>
+												<td>60 минут</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>13:00</td>
+												<td>Художник. Серия 2</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>14:00</td>
+												<td>Вести</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>14:35</td>
+												<td>Вести. Местное время</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>15:00</td>
+												<td>Бахар. По имени Весна. Серия 3, 4</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>17:00</td>
+												<td>Вести</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>17:30</td>
+												<td>Малахов. Дочь или сестра? Американка встречается с русскими родственниками</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>18:30</td>
+												<td>60 минут</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>20:00</td>
+												<td>Вести в 20:00</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>21:05</td>
+												<td>Вести. Местное время</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>21:20</td>
+												<td>Лимитчицы. Серия 11</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>22:20</td>
+												<td>Лимитчицы. Серия 12</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>23:30</td>
+												<td>Вечер с Владимиром Соловьевым</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>02:05</td>
+												<td>Бахар. По имени Весна. Серия 3, 4</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>03:45</td>
+												<td>Василиса. Серия 2</td>
+
+										</tr>
+
+									
+								</tbody>
+
+							</table>
+
+						</div>
+
+					</li>
+
+				
+					<li>
+
+						<strong>10-07-2024</strong>
+
+						<div class="uk-overflow-auto">
+
+							<table class="uk-table uk-table-divider uk-table-small">
+
+								<thead>
+
+									<tr>
+										
+										<th>Время</th>
+										<th>Название программы</th>
+
+									</tr>
+
+								</thead>
+
+								<tbody>
+							
+									
+									
+										<tr>
+											
+												<td>05:00</td>
+												<td>Утро России</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>09:00</td>
+												<td>Вести. Местное время</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>09:30</td>
+												<td>Утро России</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>09:55</td>
+												<td>О самом главном</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>11:00</td>
+												<td>Вести</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>11:30</td>
+												<td>60 минут</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>13:00</td>
+												<td>Художник. Серия 3</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>14:00</td>
+												<td>Вести</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>14:35</td>
+												<td>Вести. Местное время</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>15:00</td>
+												<td>Бахар. По имени Весна. Серия 5, 6</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>17:00</td>
+												<td>Вести</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>17:30</td>
+												<td>Малахов. Татьяна Веденеева. Говорит и показывает</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>18:30</td>
+												<td>60 минут</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>20:00</td>
+												<td>Вести в 20:00</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>21:05</td>
+												<td>Вести. Местное время</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>21:20</td>
+												<td>Лимитчицы. Серия 13</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>22:20</td>
+												<td>Лимитчицы. Серия 14</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>23:30</td>
+												<td>Вечер с Владимиром Соловьевым</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>02:05</td>
+												<td>Бахар. По имени Весна. Серия 5, 6</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>03:45</td>
+												<td>Василиса. Серия 3</td>
+
+										</tr>
+
+									
+								</tbody>
+
+							</table>
+
+						</div>
+
+					</li>
+
+				
+					<li>
+
+						<strong>11-07-2024</strong>
+
+						<div class="uk-overflow-auto">
+
+							<table class="uk-table uk-table-divider uk-table-small">
+
+								<thead>
+
+									<tr>
+										
+										<th>Время</th>
+										<th>Название программы</th>
+
+									</tr>
+
+								</thead>
+
+								<tbody>
+							
+									
+									
+										<tr>
+											
+												<td>05:00</td>
+												<td>Утро России</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>09:00</td>
+												<td>Вести. Местное время</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>09:30</td>
+												<td>Утро России</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>09:55</td>
+												<td>О самом главном</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>11:00</td>
+												<td>Вести</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>11:30</td>
+												<td>60 минут</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>13:00</td>
+												<td>Художник. Серия 4</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>14:00</td>
+												<td>Вести</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>14:35</td>
+												<td>Вести. Местное время</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>15:00</td>
+												<td>Бахар. По имени Весна. Серия 7, 8</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>17:00</td>
+												<td>Вести</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>17:30</td>
+												<td>Малахов. Самые удивительные дома России</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>18:30</td>
+												<td>60 минут</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>20:00</td>
+												<td>Вести в 20:00</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>21:05</td>
+												<td>Вести. Местное время</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>21:20</td>
+												<td>Лимитчицы. Серия 15</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>22:20</td>
+												<td>Лимитчицы. Серия 16</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>23:30</td>
+												<td>Вечер с Владимиром Соловьевым</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>02:05</td>
+												<td>Бахар. По имени Весна. Серия 7, 8</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>03:45</td>
+												<td>Василиса. Серия 4</td>
+
+										</tr>
+
+									
+								</tbody>
+
+							</table>
+
+						</div>
+
+					</li>
+
+				
+					<li>
+
+						<strong>12-07-2024</strong>
+
+						<div class="uk-overflow-auto">
+
+							<table class="uk-table uk-table-divider uk-table-small">
+
+								<thead>
+
+									<tr>
+										
+										<th>Время</th>
+										<th>Название программы</th>
+
+									</tr>
+
+								</thead>
+
+								<tbody>
+							
+									
+									
+										<tr>
+											
+												<td>05:00</td>
+												<td>Утро России</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>09:00</td>
+												<td>Вести. Местное время</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>09:30</td>
+												<td>Утро России</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>09:55</td>
+												<td>О самом главном</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>11:00</td>
+												<td>Вести</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>11:30</td>
+												<td>60 минут</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>13:00</td>
+												<td>Судьба человека с Борисом Корчевниковым. Судьба Ярослава Сумишевского</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>14:00</td>
+												<td>Вести</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>14:35</td>
+												<td>Вести. Местное время</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>15:00</td>
+												<td>Бахар. По имени Весна. Серия 9, 10</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>17:00</td>
+												<td>Вести</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>17:30</td>
+												<td>Прямой эфир. Африканские страсти</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>18:30</td>
+												<td>60 минут</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>20:00</td>
+												<td>Вести в 20:00</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>21:35</td>
+												<td>Вести. Местное время</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>21:50</td>
+												<td>Торжественная церемония открытия XXXIII Международного фестиваля "Славянский базар в Витебске"</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>23:55</td>
+												<td>Мороз по коже</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>02:05</td>
+												<td>Бахар. По имени Весна. Серия 9, 10</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>03:45</td>
+												<td>Василиса. Серия 5</td>
+
+										</tr>
+
+									
+								</tbody>
+
+							</table>
+
+						</div>
+
+					</li>
+
+				
+					<li>
+
+						<strong>13-07-2024</strong>
+
+						<div class="uk-overflow-auto">
+
+							<table class="uk-table uk-table-divider uk-table-small">
+
+								<thead>
+
+									<tr>
+										
+										<th>Время</th>
+										<th>Название программы</th>
+
+									</tr>
+
+								</thead>
+
+								<tbody>
+							
+									
+									
+										<tr>
+											
+												<td>05:00</td>
+												<td>Утро России. Суббота</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>08:00</td>
+												<td>Вести. Местное время</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>08:20</td>
+												<td>Местное время. Суббота</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>08:35</td>
+												<td>По секрету всему свету. Подмосковье</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>09:00</td>
+												<td>Формула еды. Ряженка</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>09:25</td>
+												<td>Пятеро на одного</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>10:10</td>
+												<td>Сто к одному</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>11:00</td>
+												<td>Вести</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>11:50</td>
+												<td>Доктор Мясников</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>13:00</td>
+												<td>В кругу друзей</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>14:00</td>
+												<td>Вести</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>14:50</td>
+												<td>Юмор! Юмор!! Юмор!!!</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>17:00</td>
+												<td>Вести</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>17:50</td>
+												<td>Привет, Андрей! Семейные дуэты</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>20:00</td>
+												<td>Вести в 20:00</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>21:00</td>
+												<td>Лаборантка</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>00:35</td>
+												<td>Знахарка</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>04:10</td>
+												<td>Подруги</td>
+
+										</tr>
+
+									
+								</tbody>
+
+							</table>
+
+						</div>
+
+					</li>
+
+				
+					<li>
+
+						<strong>14-07-2024</strong>
+
+						<div class="uk-overflow-auto">
+
+							<table class="uk-table uk-table-divider uk-table-small">
+
+								<thead>
+
+									<tr>
+										
+										<th>Время</th>
+										<th>Название программы</th>
+
+									</tr>
+
+								</thead>
+
+								<tbody>
+							
+									
+									
+										<tr>
+											
+												<td>06:05</td>
+												<td>Терапия любовью</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>08:00</td>
+												<td>Местное время. Воскресенье</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>08:35</td>
+												<td>Когда все дома с Тимуром Кизяковым. Роберт Фомин</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>09:25</td>
+												<td>Утренняя почта с Николаем Басковым</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>10:10</td>
+												<td>Сто к одному</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>11:00</td>
+												<td>Вести</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>11:50</td>
+												<td>Доктор Мясников</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>13:00</td>
+												<td>Большие перемены</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>14:00</td>
+												<td>Вести</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>14:50</td>
+												<td>Парад юмора</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>17:00</td>
+												<td>Вести</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>17:50</td>
+												<td>Песни от всей души</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>20:00</td>
+												<td>Вести в 20:00</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>22:00</td>
+												<td>Москва. Кремль. Путин</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>22:40</td>
+												<td>Воскресный вечер с Владимиром Соловьевым</td>
+
+										</tr>
+
+									
+										<tr>
+											
+												<td>01:05</td>
+												<td>Терапия любовью</td>
+
+										</tr>
+
+									
+								</tbody>
+
+							</table>
+
+						</div>
+
+					</li>
+
+				
+			</ul>
+
+	
+
+	</div>
+</div>
+
+							
+
+
+</div>
+</article>
+
+<div class="uk-width-auto">
+<div id="widget-timeline-news" class="uk-width-medium@s">
+
+<header class="uk-header">
+	<div class="widget__title">Последние новости</div>
+</header>
+
+<ul class="uk-list uk-text-small">
+
+
+<li class="line">
+	<div class="data uk-flex">
+		<time>20:08</time>
+		<a href="https://vesti-omsk.ru/news/hudozhnik/"><span class="video" uk-icon="icon:video-camera"></span>Художник Сергей Сочивко провел экскурсию по своей выставки специально для программы &#171;Вести Культура&#187;</a>
+	</div>
+</li>
+
+
+<li class="line">
+	<div class="data uk-flex">
+		<time>20:02</time>
+		<a href="https://vesti-omsk.ru/news/sport/na-koroleve-sporta-opredelilis-pobediteli-v-4-vidah-sporta/"><span uk-icon="icon:pencil"></span>На «Королеве спорта» определились победители в 4 видах спорта</a>
+	</div>
+</li>
+
+
+<li class="line">
+	<div class="data uk-flex">
+		<time>14:54</time>
+		<a href="https://vesti-omsk.ru/news/gosudarstvo/v-sele-ust-ishim-vitalij-hoczenko-poruchil-narastit-tempy-obsledovaniya-domovladenij-dlya-uskoreniya-vyplat-kompensaczij/"><span uk-icon="icon:pencil"></span>В селе Усть-Ишим Виталий Хоценко поручил нарастить темпы обследования домовладений для ускорения выплат компенсаций</a>
+	</div>
+</li>
+
+
+<li class="line">
+	<div class="data uk-flex">
+		<time>13:14</time>
+		<a href="https://vesti-omsk.ru/news/mer-sergej-shelest-provel-proverku-raboty-regionalnogo-operatora-ooo-magnit/"><span uk-icon="icon:pencil"></span>Мэр Сергей Шелест провел проверку работы регионального оператора ООО «Магнит»</a>
+	</div>
+</li>
+
+
+<li class="line">
+	<div class="data uk-flex">
+		<time>11:26</time>
+		<a href="https://vesti-omsk.ru/video/v-omske-muzhchina-napal-na-ohrannika-magazina/"><span class="video" uk-icon="icon:video-camera"></span>В Омске мужчина напал на охранника магазина</a>
+	</div>
+</li>
+
+
+<li class="line">
+	<div class="data uk-flex">
+		<time>11:20</time>
+		<a href="https://vesti-omsk.ru/video/omichi-zhaluyutsya-na-slozhnosti-pri-proezde-do-megi/"><span class="video" uk-icon="icon:video-camera"></span>Омичи жалуются на сложности при проезде до МЕГИ</a>
+	</div>
+</li>
+
+
+<li class="line">
+	<div class="data uk-flex">
+		<time>09:00</time>
+		<a href="https://vesti-omsk.ru/news/dezhurnaya-chast-efir-ot-13-iyulya-2024-goda/"><span class="video" uk-icon="icon:video-camera"></span>&#171;Дежурная часть&#187;, эфир от 13 июля 2024 года</a>
+	</div>
+</li>
+
+
+<li class="line">
+	<div class="data uk-flex">
+		<time>22:21</time>
+		<a href="https://vesti-omsk.ru/video/v-omske-zamecheny-oblaka-redkoj-formy/"><span class="video" uk-icon="icon:video-camera"></span>В Омске замечены облака редкой формы</a>
+	</div>
+</li>
+
+
+<li class="line">
+	<div class="data uk-flex">
+		<time>22:19</time>
+		<a href="https://vesti-omsk.ru/video/vperedi-u-omichej-anomalno-zharkie-vyhodnye/"><span class="video" uk-icon="icon:video-camera"></span>Впереди у омичей аномально жаркие выходные</a>
+	</div>
+</li>
+
+
+<li class="line">
+	<div class="data uk-flex">
+		<time>22:12</time>
+		<a href="https://vesti-omsk.ru/video/v-tare-otkrylsya-bolshoj-sportivnyj-prazdnik-koroleva-sporta/"><span class="video" uk-icon="icon:video-camera"></span>В Таре открылся большой спортивный праздник &#171;Королева спорта&#187;</a>
+	</div>
+</li>
+
+
+<li class="line">
+	<div class="data uk-flex">
+		<time>22:10</time>
+		<a href="https://vesti-omsk.ru/video/torzhestvennyj-vypusk-v-omskoj-akademii-mvd/"><span class="video" uk-icon="icon:video-camera"></span>Торжественный выпуск в Омской академии МВД</a>
+	</div>
+</li>
+
+
+<li class="line">
+	<div class="data uk-flex">
+		<time>22:07</time>
+		<a href="https://vesti-omsk.ru/video/v-omske-za-polchasa-vypala-pochti-mesyachnaya-norma-osadkov/"><span class="video" uk-icon="icon:video-camera"></span>В Омске за полчаса выпала почти месячная норма осадков</a>
+	</div>
+</li>
+
+
+</ul>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</main>
+<footer role="contentinfo">
+	<div class="uk-container">
+		<div class="uk-section">
+			<div class="uk-child-width-1-1 uk-child-width-1-3@s" uk-grid>
+				<div>
+
+					<p>
+					<strong>Главный редактор</strong><br />Копейкин Андрей Валерьевич
+					</p>
+
+					<p>
+						<strong>Редакция</strong><br />Омск, пр. Мира, 2<br /><span uk-icon="receiver"></span> (3812) 65-00-15<br /><span uk-icon="mail"></span> <a href="mailto:gtrk@inbox.ru">gtrk@inbox.ru</a>
+					</p>
+
+					<p>
+						<strong>Размещение рекламы</strong><br /><span uk-icon="receiver"></span> (3812) 65-00-65<br /><span uk-icon="mail"></span> <a href="mailto:reklama@omsk.rfn.ru">reklama@omsk.rfn.ru</a>
+					</p>
+					<div class="social-list">
+				<a class="header-link" target="_blank" href="https://vk.com/vestiomsk"><svg width="20" height="20"><use xlink:href="#svg_vk"/></svg></a>
+				<a class="header-link" target="_blank" href="https://t.me/vestiomsk"><svg width="20" height="20"><use xlink:href="#svg_telegram"/></svg></a>
+				<a class="header-link" target="_blank" href="https://ok.ru/group/58667583668472"><svg width="20" height="20"><use xlink:href="#svg_ok"/></svg></a>
+				<a class="header-link" target="_blank" href="https://zen.yandex.ru/id/5a65c87ac8901093356e9173"><svg width="20" height="20"><use xlink:href="#svg_zen"/></svg></a>
+			</div>
+				</div>
+				<div>
+					
+					<strong>При использовании материалов ссылка обязательна</strong>
+
+					<p class="massmedia">
+					Свидетельство о регистрации ЭЛ № ФС 77-59166 от 22.08.2014. Выдано Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор).</p>
+
+					<p class="massmedia">Учредитель - федеральное государственное унитарное предприятие «Всероссийская государственная телевизионная и радиовещательная компания».</p>
+
+					<p class="massmedia">Главный редактор - Копейкин Андрей Валерьевич.<br />
+					Редактор ГТРК - Сафонова Екатерина Евгеньевна.<br />
+					<span uk-icon="receiver"></span> +7 (3812) 65-00-75 , 65-00-15.<br />
+					<span uk-icon="mail"></span> <a href="mailto:gtrk@inbox.ru">gtrk@inbox.ru</a></p>
+					
+					<p class="massmedia">Любое использование текстовых, фото, аудио и видеоматериалов возможна с указанием источника с обязательной публикацией гиперссылки на материал<a href="https://airinsail.ru">.</a>
+					</p>
+				</div>
+				<div class="uk-flex uk-flex-column uk-flex-between">
+					<ul class="uk-list">
+						<li><a href="mailto:gtrk@inbox.ru">Сообщить об ошибке</a></li>
+					</ul>
+					<div>
+						<p>© ГТРК «Иртыш» 2020 г. Сетевое издание «Государственный интернет-канал «Россия».</p>
+						<div class="forage">
+							<span>16+</span>Для лиц старше 16 лет.
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+
+</div>
+</div>
+<script type="text/javascript" src="https://vesti-omsk.ru/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.5" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/vesti-omsk.ru\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://vesti-omsk.ru/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9.5" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://vesti-omsk.ru/wp-content/themes/startnews/assets/js/uikit.min.js?ver=3.2.4" id="uikit-js-js"></script>
+<script type="text/javascript" src="https://vesti-omsk.ru/wp-content/themes/startnews/assets/js/hc-sticky.js?ver=2.2.6" id="hc-sticky-js"></script>
+<script type="text/javascript" src="https://vesti-omsk.ru/wp-content/themes/startnews/assets/js/scripts.js?ver=1.6" id="scripts-js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/npm/goodshare.js@6/goodshare.min.js?ver=1" id="goodshare-js"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6Le0xfQZAAAAAP5czr1ipcp6Aj6gb4BOVV3rPy6k&amp;ver=3.0" id="google-recaptcha-js"></script>
+<script type="text/javascript" src="https://vesti-omsk.ru/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="https://vesti-omsk.ru/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://vesti-omsk.ru/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="wpcf7-recaptcha-js-extra">
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6Le0xfQZAAAAAP5czr1ipcp6Aj6gb4BOVV3rPy6k","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://vesti-omsk.ru/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.9.5" id="wpcf7-recaptcha-js"></script>
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.5.9/dist/js/uikit-icons.min.js"></script>
+<script>
+    "use strict";
+    var elements = document.getElementsByTagName('aside');
+
+    for (var i = 0; i < elements.length; i++) {
+      new hcSticky(elements[i], {
+      top: 165,
+      responsive: {
+        980: {
+          disable: true
+        }
+      }
+      });
+    }
+</script>
+<script>
+const copyListener = (event) => {
+  const range = window.getSelection().getRangeAt(0),
+    rangeContents = range.cloneContents(),
+    pageLink = `Источник - ГТРК «Иртыш»: ${document.location.href}`,
+    helper = document.createElement("div");
+
+  helper.appendChild(rangeContents);
+
+  event.clipboardData.setData("text/plain", `${helper.innerText}\n${pageLink}`);
+  event.clipboardData.setData("text/html", `${helper.innerHTML}<br>${pageLink}`);
+  event.preventDefault();
+};
+document.addEventListener("copy", copyListener);
+</script>
+</body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Кэширование объекта 136/269 объектов с помощью Memcached
+Кэширование страницы с использованием Memcached 
+Кэширование БД с использованием Memcached
+
+Served from: vesti-omsk.ru @ 2024-07-14 00:08:11 by W3 Total Cache
+-->
